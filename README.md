@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Yarigore 
+- 👀 I’m interested in make videogames
+- 🌱 I’m currently learning how used unity and its language C#
+- 💞️ I’m thinking to associate with some classmates 
+- 📫 How to reach me zaragozadimas14@gmail.com
