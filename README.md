@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Yarigore 
-- 👀 I’m interested in make videogames
-- 🌱 I’m currently learning how used unity and its language C#
-- 💞️ I’m thinking to associate with some classmates 
-- 📫 How to reach me zaragozadimas14@gmail.com
+- 👋 Hi, I’m @Yarigore.
+- 👀 I’m interested in make videogames.
+- 🌱 I’m currently learning how used unity and its language C#, and for other part i'm ussing java to make some programs.
+- 😊 I'm happy for all my progress in these months for having created small games.
+- 📫 If you want talk to me: dimaszaragoza16@gmail.com
+- 🏁 And for the latest here is my website itch.io: https://yarigore.itch.io/
