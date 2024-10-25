@@ -15,7 +15,7 @@
 - 🌱 I'm still improving my spring skills for backend projects.
 - 😊 I feel proud of the progress achieved in these months, having created some small games and applications.
 - 📫 If you want to contact me, you can write to dimaszaragoza16@gmail.com
-- 🏁 You can also see my projects at Itch.io: Yarigore.itch.io
+- 🏁 You can also see my projects at Itch.io: <a href="https://yarigore.itch.io/"> Yarigore.itch.io </a>
 
 🚀 I am actively in search of job opportunities in the Backnend development area.
 
