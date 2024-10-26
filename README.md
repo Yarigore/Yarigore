@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=powershell,discord&theme=light" />
+    <img src="https://skillicons.dev/icons?i=maven,powershell,discord&theme=light" />
   </a>
 </p>
   
