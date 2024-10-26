@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,idea,androidstudio,obsidian,postman&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,idea,androidstudio,obsidian,postman,maven&theme=light" />
   </a>
 </p>
 
@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=maven,powershell,discord&theme=light" />
+    <img src="https://skillicons.dev/icons?i=powershell,discord&theme=light" />
   </a>
 </p>
   
